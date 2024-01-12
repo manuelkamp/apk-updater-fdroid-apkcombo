@@ -1,7 +1,7 @@
 # APK Updater
 
 This python script downloads all new APKs for your local f-droid repo from apkcombo.
-## ATTENTION: THIS REPOSITORY IS A COPY AND WILL NOT BE UPDATED ON REGULAR BASIS. PLEASE GO TO [https://git.kmpr.at/kamp/TCS2FHEM](https://git.kmpr.at/kamp/apk-updater-fdroid-apkcombo) TO SEE THE LATEST CODE AND/OR SUBMIT PULL REQUESTS OR ISSUES!
+## ATTENTION: THIS REPOSITORY IS A COPY AND WILL NOT BE UPDATED ON REGULAR BASIS. PLEASE GO TO https://git.kmpr.at/kamp/apk-updater-fdroid-apkcombo TO SEE THE LATEST CODE AND/OR SUBMIT PULL REQUESTS OR ISSUES!
 
 ## Prerequisites
 
